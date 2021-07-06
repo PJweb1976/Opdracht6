@@ -22,6 +22,7 @@ header {
         width: 33,3%;
         box-sizing:border-box;
         display:inline;
+        margin: 20px;
     }
 li  {   list-style:square;
         padding-top:  5px;
@@ -60,10 +61,10 @@ nav, #background {
     margin: 5px 10px 5px 10px;
 }
 aside{ 
-    width: 25%;
+    width: 250px;
     margin:0 auto;
 }
 footer{
-    width: 25%;
+    width: 250px;
     margin:0 auto;
 }
